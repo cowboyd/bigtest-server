@@ -1,0 +1,2 @@
+declare module "@bigtest/server" {
+}
